@@ -58,4 +58,4 @@ if __name__ == '__main__':
     # Avvia la finestra principale
     root.mainloop()
 
-#ciao coglione 24
+#un caro saluto tommaso bellato, quello figo

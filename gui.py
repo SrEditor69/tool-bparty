@@ -57,3 +57,5 @@ if __name__ == '__main__':
     
     # Avvia la finestra principale
     root.mainloop()
+
+#ciao coglione
